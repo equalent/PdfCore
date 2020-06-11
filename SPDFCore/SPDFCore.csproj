@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>SPDFCore</Title>
+        <Authors>equalent</Authors>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+        <PackageProjectUrl>https://github.com/equalent/SPDFCore</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/equalent/SPDFCore</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <Company>Equalent</Company>
+        <AssemblyVersion>0.0.1</AssemblyVersion>
+        <PackageVersion>0.0.1</PackageVersion>
+        <FileVersion>0.0.1</FileVersion>
+        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+      <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    </PropertyGroup>
+
+</Project>
