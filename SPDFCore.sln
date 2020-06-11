@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPDFCore", "SPDFCore\SPDFCore.csproj", "{C6892BB2-A2FE-4630-A421-A4E4ADEB065E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SPDFCore.Tests", "SPDFCore.Tests\SPDFCore.Tests.csproj", "{FFCB592C-A0A0-4F88-AC9C-1A8EF7EF3680}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{C6892BB2-A2FE-4630-A421-A4E4ADEB065E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6892BB2-A2FE-4630-A421-A4E4ADEB065E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6892BB2-A2FE-4630-A421-A4E4ADEB065E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFCB592C-A0A0-4F88-AC9C-1A8EF7EF3680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFCB592C-A0A0-4F88-AC9C-1A8EF7EF3680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFCB592C-A0A0-4F88-AC9C-1A8EF7EF3680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFCB592C-A0A0-4F88-AC9C-1A8EF7EF3680}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

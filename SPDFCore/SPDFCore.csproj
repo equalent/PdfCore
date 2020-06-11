@@ -10,9 +10,9 @@
         <RepositoryUrl>https://github.com/equalent/SPDFCore</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
         <Company>Equalent</Company>
-        <AssemblyVersion>0.0.1</AssemblyVersion>
+        <AssemblyVersion>0.0.1.0</AssemblyVersion>
         <PackageVersion>0.0.1</PackageVersion>
-        <FileVersion>0.0.1</FileVersion>
+        <FileVersion>0.0.1.0</FileVersion>
         <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     </PropertyGroup>
 
